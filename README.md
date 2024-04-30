@@ -28,7 +28,7 @@ Le projet dépend d'un serveur apache obtenable dans l'application xampp
 ### puis sauvegarder pour permettre la connection à phpmyadmin avec les infos du compte utilisateur créé
 
 ## Etape 7
-### Créer un nouveau database dans le compte utilisateur qui vient d'être creé en appuyant sur 'nouveau' dans le sidebar à guauche
+### Créer un nouveau database dans le compte utilisateur qui vient d'être creé en appuyant sur 'nouveau' dans le sidebar à guauche de phpmyadmin
 ### le nom du database doit être 'web_project'
 
 ## Etape 8
