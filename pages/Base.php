@@ -161,7 +161,7 @@
                 <h2>Apprenez à votre rythme</h2>
                 <p>Découvrez la façon la plus immersive et engageante <br>de maîtriser de nouveaux domaines</p><br><br>
                 <p>Faite immersion dans un monde pleine <br>d'opportinuté et tout se passe en un seul clic</p>
-                <button id='btn_connect'>Commencer dès maintenant</button>
+                <button id='btn_connect' onclick="window.location.href = 'http://localhost/web_dev_3/pages/Signup.php'">Commencer dès maintenant</button>
             </div>
         
             <div class='hero_img'>
